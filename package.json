@@ -1,0 +1,14 @@
+{
+  "name": "deep-search-engine",
+  "version": "1.0.0",
+  "description": "API de busca para a rede onion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
